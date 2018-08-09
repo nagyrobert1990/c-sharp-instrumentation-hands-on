@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateApplicationEventLog", "CreateApplicationEventLog\CreateApplicationEventLog.csproj", "{5D401424-C8EF-41FF-A6E3-BB749C58B3E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoringApplicationPerformance", "MonitoringApplicationPerformance\MonitoringApplicationPerformance.csproj", "{C1C30D2B-916A-4059-B727-A5D1F9CF1B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceCounterDemo", "PerformanceCounterDemo\PerformanceCounterDemo.csproj", "{E96B94BB-0457-43ED-BE47-4474DEAC94F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5D401424-C8EF-41FF-A6E3-BB749C58B3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D401424-C8EF-41FF-A6E3-BB749C58B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D401424-C8EF-41FF-A6E3-BB749C58B3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C30D2B-916A-4059-B727-A5D1F9CF1B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C30D2B-916A-4059-B727-A5D1F9CF1B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C30D2B-916A-4059-B727-A5D1F9CF1B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C30D2B-916A-4059-B727-A5D1F9CF1B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96B94BB-0457-43ED-BE47-4474DEAC94F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96B94BB-0457-43ED-BE47-4474DEAC94F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96B94BB-0457-43ED-BE47-4474DEAC94F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96B94BB-0457-43ED-BE47-4474DEAC94F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
